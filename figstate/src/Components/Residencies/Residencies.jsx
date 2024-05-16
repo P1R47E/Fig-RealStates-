@@ -37,6 +37,7 @@ const Residencies = () => {
 }
 
 export default Residencies
+
 const SliderButtons = () =>{
   const swiper = useSwiper();
   return (
