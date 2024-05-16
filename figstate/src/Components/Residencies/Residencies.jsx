@@ -1,7 +1,7 @@
 import React from 'react'
 import {Swiper,SwiperSlide,useSwiper} from 'swiper/react'
 import "swiper/css"
-// import "./Residencies.jsx"
+import "./Residencies.jsx"
 import "./Residencies.css"
 import { slideSettings } from '../../utils/common'
 import data from "../../utils/slider.json"
@@ -41,9 +41,9 @@ export default Residencies
 const SliderButtons = () =>{
   const swiper = useSwiper();
   return (
-    <div className='r-button'>
+    <div className="flexCenter r-buttons">
       <button onClick={() => swiper.slidePrev()}>&lt;</button>
-      <button onclick = {() => swiper.slideNext()}>&gt;</button>
+      <button onClick = {() => swiper.slideNext()}>&gt;</button>
     </div>
   )
 }
