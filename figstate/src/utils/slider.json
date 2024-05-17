@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
+    "name": "FlintStones Garden",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "Addis Abeba,Bole,Tanzania Embassy,main street",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Sunshine Garden City",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "Addis Abeba,Bole Atlas, Street XVII No.215, Ethiopia",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Blum private villa",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "UAE,Palm jumeirah,Dubai,sheik Mohammed Road",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Fig RealState",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "Ethiopia,Addis Abeba,Bole Medhanialem Square,",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Ali mahreb City",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "UAE,Palm jumeirah,Dubai,sheik Mohammed Road",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Noah Realstate",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "Ethiopia,Addis Abeba,Bole Medhanialem Square,",
     "image": "./r3.png"
   }
 ]
